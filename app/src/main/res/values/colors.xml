@@ -3,4 +3,7 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="colorSemaforoGreen">#3EAF0E</color>
+    <color name="colorSemaforoYellow">#FFE015</color>
+    <color name="colorSemaforoRed">#EF0808</color>
 </resources>
